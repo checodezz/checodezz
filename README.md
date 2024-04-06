@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chethan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/checodezz](https://github.com/checodezz)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **svck2001@gmail.com**
 
